@@ -29,6 +29,7 @@
 		8A96FDF5265FAB9A00589772 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A96FDF7265FAB9A00589772 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8A96FDF8265FAB9A00589772 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8A96FE02265FAEA700589772 /* SMLagMonitor */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SMLagMonitor; path = "../../../../../优化/启动优化/GCDFetchFeed-master/GCDFetchFeed/GCDFetchFeed/Lib/SMLagMonitor"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 		8A96FDE5265FAB9600589772 /* arm64汇编学习测试 */ = {
 			isa = PBXGroup;
 			children = (
+				8A96FE02265FAEA700589772 /* SMLagMonitor */,
 				8A96FDE6265FAB9600589772 /* AppDelegate.h */,
 				8A96FDE7265FAB9600589772 /* AppDelegate.m */,
 				8A96FDE9265FAB9600589772 /* SceneDelegate.h */,

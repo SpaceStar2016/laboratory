@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A34C03D6-3C70-42A1-934C-956EF50BB570"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92C4449C-302E-4124-89E3-7BAFF7B8DC62"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "arm64&#x6c47;&#x7f16;&#x5b66;&#x4e60;&#x6d4b;&#x8bd5;/arm64&#x6c47;&#x7f16;&#x5b66;&#x4e60;&#x6d4b;&#x8bd5;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "cTest(a)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC14CB35-ADC3-4A99-95CB-94BE1E1841DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "arm64&#x6c47;&#x7f16;&#x5b66;&#x4e60;&#x6d4b;&#x8bd5;/arm64&#x6c47;&#x7f16;&#x5b66;&#x4e60;&#x6d4b;&#x8bd5;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "-testDissembly"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
